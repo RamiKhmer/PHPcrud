@@ -1,0 +1,1 @@
+<b><font color="blue">Welcome!</font> <font color="black"><?php echo $name; ?> |</font> <a href="logout.php" onclick="return confirm('Are you sure you want to logout?')">Logout</a></b>
